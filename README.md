@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mouhamamd-kl/mouhamamd-kl/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake2.svg)
 
 ###
