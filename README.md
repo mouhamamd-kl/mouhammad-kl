@@ -5,7 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhamamd-kl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 ## 🔧 Tech Stack
 
 ### 👨‍💻 Programming languages
@@ -49,7 +48,6 @@
 ###
 
 <img align="center" height="157" src="https://avatars.githubusercontent.com/u/90704581?s=400&u=7ade50fb743e79c652808ed319fdf3aba8494e78&v=4"  />
-###
 <br clear="both">
 <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg">
 
