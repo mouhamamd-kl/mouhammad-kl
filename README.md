@@ -51,4 +51,4 @@
 
 <br clear="both">
 <!-- <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg"> -->
-[![mouhammadkl profile views](https://u8views.com/api/v1/github/profiles/90704581/views/day-week-month-total-count.svg)](https://u8views.com/github/mouhamamd-kl)
+<a href="https://u8views.com/github/mouhamamd-kl"><img src="https://u8views.com/api/v1/github/profiles/90704581/views/day-week-month-total-count.svg"></a>
