@@ -33,10 +33,10 @@
 
 ### 💻 Workspace
 
-<a href="https://skillicons.dev">
+
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
   
-</a>
+
 
 ###
 
