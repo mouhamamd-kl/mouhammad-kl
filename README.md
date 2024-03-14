@@ -51,4 +51,4 @@
 
 <br clear="both">
 <!-- <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg"> -->
-<a href="https://u8views.com/github/mouhamamd-kl"><img src="https://u8views.com/api/v1/github/profiles/90704581/views/day-week-month-total-count.svg"></a>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
