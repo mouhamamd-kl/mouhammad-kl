@@ -47,7 +47,6 @@
 
 ###
 
-<img align="center" height="157" src="https://avatars.githubusercontent.com/u/90704581?s=400&u=7ade50fb743e79c652808ed319fdf3aba8494e78&v=4"  />
 <br clear="both">
 <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg">
 
