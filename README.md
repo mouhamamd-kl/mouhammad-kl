@@ -1,31 +1,42 @@
 <h1 align="center">Hi 👋! My name is<br>🔻mouhammad khaled 🔻<br>a program enthusiast</h1>
-
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouhamamd-kl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhamamd-kl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+## 🔧 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+### 👨‍💻 Programming languages
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dart,html,css,js" />
+</a>
+
+### 🧩 Libraries & Framework
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,bootstrap,nodejs,webpack,sass" />
+</a>
+
+### 🗄️ Databases and cloud hosting
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</a>
+
+### 🧑🏻‍💻 Software and tools
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian&perline=11" />
+</a>
+
+### 💻 Workspace
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=windows&perline=11" />
+</a>
 
 ###
 
