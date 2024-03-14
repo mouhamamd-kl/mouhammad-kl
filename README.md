@@ -2,6 +2,7 @@
 <!-- the latest working one -->
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=mouhamamd%20kl&width=900&height=400">
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
   <img src="https://github-readme-stats.vercel.app/api?username=mouhamamd-kl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhamamd-kl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
