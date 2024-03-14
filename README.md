@@ -34,8 +34,7 @@
 ### 💻 Workspace
 
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" />
-  
+<img src="https://skillicons.dev/icons?i=windows&perline=11" />  
 
 
 ###
