@@ -51,4 +51,5 @@
 
 <br clear="both">
 <!-- <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg"> -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=mouhamamd%20kl&width=900&height=400">
+
