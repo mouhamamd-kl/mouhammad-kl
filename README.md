@@ -20,7 +20,7 @@
 ### 🧩 Libraries & Framework
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,bootstrap,nodejs,webpack,sass" />
+<img src="https://skillicons.dev/icons?i=flutter,bootstrap,nodejs,webpack,sass,selenium" />
 </a>
 
 ### 🗄️ Databases and cloud hosting
