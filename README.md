@@ -55,4 +55,4 @@
 
 <!-- br clear="both">
 <!-- <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg"> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhamamd-kl&theme=arctic&radius=50&area=true&hide_border=true&hide_title=true" height="500" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhamamd-kl&theme=arctic&radius=50&area=true&hide_border=true&hide_title=true" height="400" alt="activity-graph graph"  />
