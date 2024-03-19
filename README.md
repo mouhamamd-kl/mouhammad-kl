@@ -55,4 +55,4 @@
 
 <br clear="both">
 <!-- <img src="https://github.com/mouhamamd-kl/mouhamamd-kl/blob/output/github-contribution-grid-snake-dark.svg"> -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mouhamamd-kl&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![mouhammd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mouhamamd-kl&theme=arctic)](https://github.com/ashutosh00710/github-readme-activity-graph)
