@@ -3,7 +3,7 @@
 
 <!-- img src="https://svg-banners.vercel.app/api?type=luminance&text1=%F0%9F%94%BBmouhamamd%F0%9F%94%BB%20kl&width=1200&height=400" -->
 <!--img src="https://s12.gifyu.com/images/SVsGx.gif"height="100%" width="100%"-->
-<img src="https://i.ibb.co/b7RFg20/project-1.gif" height="150" width="200">
+<img src="https://i.ibb.co/b7RFg20/project-1.gif" height="1500" width="2000">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
   <img src="https://github-readme-stats.vercel.app/api?username=mouhamamd-kl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
