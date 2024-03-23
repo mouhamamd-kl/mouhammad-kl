@@ -1,7 +1,8 @@
 <!-- h1 align="center">Hi 👋! My name is<br>🔻mouhammad khaled 🔻<br>a program enthusiast</h1 -->
 <!-- the latest working one -->
 
-<img src="https://svg-banners.vercel.app/api?type=luminance&text1=%F0%9F%94%BBmouhamamd%F0%9F%94%BB%20kl&width=1200&height=400">
+<!-- img src="https://svg-banners.vercel.app/api?type=luminance&text1=%F0%9F%94%BBmouhamamd%F0%9F%94%BB%20kl&width=1200&height=400" -->
+<img src="https://s12.gifyu.com/images/SVsGx.md.gif">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
   <img src="https://github-readme-stats.vercel.app/api?username=mouhamamd-kl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
